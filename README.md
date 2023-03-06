@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&desc=Hi!%20My%20name%20is%20Sanghyeok&descAlign=80&descAlignY=70&theme=gruvbox_light)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&desc=Hi!%20My%20name%20is%20Sanghyeok&descAlign=80&descAlignY=70&theme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lopinjag7)](https://solved.ac/lopinjag7/)
 
 <p align="center">
