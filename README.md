@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-
+<!--
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white)
 
 ![c](https://img.shields.io/badge/C-a8b9cc.svg?&style=for-the-badge&logo=c&logoColor=white) ![c](https://img.shields.io/badge/C++-00599c.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
