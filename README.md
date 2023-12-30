@@ -1,30 +1,26 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&desc=Hi!%20My%20name%20is%20Sanghyeok&descAlign=80&descAlignY=70&theme=gruvbox)
 
+***
+
 <p align="center">
-📚 Tech Stack 📚
+  📚 Tech Stack 📚
 </p>
 
 <p align="center">
-<!--
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?&style=for-the-badge&logo=Anaconda&logoColor=white)
-
-![c](https://img.shields.io/badge/C-a8b9cc.svg?&style=for-the-badge&logo=c&logoColor=white) ![c](https://img.shields.io/badge/C++-00599c.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/weights&biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp 
+  
 </p>
 
+***
+
+-	2023.03 ~ 2023.08	부스트캠프 AI Tech 5기 / 네이버 커넥트 재단
 
 <!--
-**Sangchu77/Sangchu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangchu77&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
